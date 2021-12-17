@@ -1,3 +1,6 @@
+#If used for commercial purposes, (e.g: Youtube video, etc) please credit this repository.
+#This is a good program to put secretly into a game if you want to temporarily fuck up someone's pc
+
 import pyautogui
 import time
 import random
